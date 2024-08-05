@@ -1,4 +1,3 @@
-CMPT 276 Final Project Proposal (Project 8)
 <!-- ABOUT THE PROJECT -->
 ## Name of Application: 
 BGC Engineering Inventory System
@@ -37,13 +36,3 @@ an item’s return period.
 ## Which external API is this project using?:
 This application will use the Google Map API to visually showcase where the equipment is currently 
 as compared to the user’s location.
-
-## Is the amount of work required in this proposal enough for five group members?:
-Yes, every member of the group believes this amount of work is reasonable.
-
-## Contact Information of Group Members
-Diljodh Nahal (dsn5@sfu.ca)
-Ajaipaul Cheema (aca242@sfu.ca)
-Mohammad Haris Ahmad (mha149@sfu.ca)
-Inderpreet Rangi (Isr@sfu.ca)
-Tanjodh Hayer (tsh7@sfu.ca)
